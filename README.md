@@ -6,7 +6,7 @@ There is a Dockerfile and `main.sh` script to build and run the Docker container
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/cesarpds/stack_bold.git
     cd your-repo
     ```
 
